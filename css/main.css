@@ -29,9 +29,9 @@ body{
 /****** HEADER ******/
 
 header {
-    height: 800px;
     background: url('../img/hero-image.png');
     background-size: cover;
+    width: 1400px;
 }
 
 header h1{
@@ -40,7 +40,7 @@ header h1{
 	font-size: 60px;
   font-weight: bold;
 	color: #bdbf09;
-  padding: 150px 300px 0px 300px;
+  padding-top: 300px;
   text-align: center;
 }
 
